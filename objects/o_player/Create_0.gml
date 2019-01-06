@@ -1,12 +1,12 @@
 //Var Init
 movespeed = 5
 
-//Macros
-#macro up keyboard_check(ord("W"))
-#macro left keyboard_check(ord("A"))
-#macro down keyboard_check(ord("S"))
-#macro right keyboard_check(ord("D"))
+up = keyboard_check(ord("W"))
+left = keyboard_check(ord("A"))
+down = keyboard_check(ord("S"))
+right = keyboard_check(ord("D"))
 
+//Macros
 
 enum playerstates {
 	walk,
