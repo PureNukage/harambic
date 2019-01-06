@@ -11,7 +11,7 @@ if (xprevious != x) or (yprevious != y) {
 	sprite_index = s_player	
 }
 
-//Flip Y-Axis when moving to the left
+//Flip image_xscale when moving to the left
 if (xprevious > x) {
 	image_xscale = -1	
 } else if (xprevious < x) {
