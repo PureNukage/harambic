@@ -4,8 +4,8 @@ movespeed = 5
 //Macros
 
 enum playerstates {
-	walk,
-	punch,
+	walk, 
+	punch1,
 }
 
 playerstates = playerstates.walk
