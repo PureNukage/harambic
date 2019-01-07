@@ -87,11 +87,35 @@
             }
         },
         {
+            "Key": "535dd3f8-26b5-41e3-a81a-d7c8aac16ead",
+            "Value": {
+                "id": "851049b6-2a61-402f-8108-a653caadbcfa",
+                "resourcePath": "sprites\\s_thug_idle\\s_thug_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5dd9d882-6aba-4343-b4b4-0a3a001aed2f",
+            "Value": {
+                "id": "0b041fb1-adb6-4a8e-9bc5-ed6d0197e9ed",
+                "resourcePath": "views\\5dd9d882-6aba-4343-b4b4-0a3a001aed2f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6b170402-5a5d-420e-bcda-e711cb85742e",
             "Value": {
                 "id": "f1fbf017-51f2-4dd0-b921-8f74ae963e2e",
                 "resourcePath": "objects\\o_controller\\o_controller.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6c959c27-08c8-465e-987e-073c45c676ed",
+            "Value": {
+                "id": "a5f9e34e-f112-4c2b-ad9d-f04a59afcd8c",
+                "resourcePath": "sprites\\s_thug_walk\\s_thug_walk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -103,11 +127,27 @@
             }
         },
         {
+            "Key": "72681e74-313a-4c3a-b60c-43900bfced84",
+            "Value": {
+                "id": "5be64445-9153-47ee-b482-e2ebea985341",
+                "resourcePath": "scripts\\scr_thug_idle\\scr_thug_idle.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "74d18f34-2710-4c99-b89c-84268ea97bcc",
             "Value": {
                 "id": "19535b07-2994-4959-a137-2e7672f3b70a",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "7a56ea4d-3789-4857-97e6-b5c2b95132b2",
+            "Value": {
+                "id": "cb53fbc6-233d-44a6-8698-2b3aac7d0d17",
+                "resourcePath": "objects\\o_thug\\o_thug.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -249,7 +289,8 @@
     ],
     "script_order": [
         "4714539d-d851-4e33-8bfc-db8582a341d2",
-        "8e4003d4-f01a-41b5-ab2a-54dd5917b881"
+        "8e4003d4-f01a-41b5-ab2a-54dd5917b881",
+        "72681e74-313a-4c3a-b60c-43900bfced84"
     ],
     "tutorial": ""
 }
