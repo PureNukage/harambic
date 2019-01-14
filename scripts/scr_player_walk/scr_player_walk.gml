@@ -17,3 +17,8 @@ if (xprevious > x) {
 } else if (xprevious < x) {
 	image_xscale = 1
 }	
+
+//Punch
+if punch {
+	playerstates = playerstates.punch1
+}
