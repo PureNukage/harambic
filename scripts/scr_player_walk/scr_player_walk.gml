@@ -20,5 +20,6 @@ if (xprevious > x) {
 
 //Punch
 if punch {
+	sprite_index = s_player_punch1
 	playerstates = playerstates.punch1
 }
